@@ -12,6 +12,5 @@ Este é o meu primeiro projeto de **Landing Page**, desenvolvido utilizando **HT
 ✅ Organização do código e boas práticas  
 ✅ Estruturação semântica de uma página web  
 ✅ Aplicação de estilos personalizados com CSS  
-✅ Introdução a layouts responsivos
 
 ![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)

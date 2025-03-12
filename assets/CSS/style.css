@@ -130,12 +130,11 @@ h2 {
 }
 
 #professional-challenges h2 {
-    padding: 0 200px 0;
+    margin: 0 200px 0;
 }
 
 #professional-challenges p {
-    padding: 0 250px 0;
-    margin-top: 30px;
+    margin: 30px 250px 0;
 }
 
 footer {
